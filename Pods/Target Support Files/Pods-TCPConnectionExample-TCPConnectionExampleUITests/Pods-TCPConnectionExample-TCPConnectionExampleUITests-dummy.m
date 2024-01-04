@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_TCPConnectionExample_TCPConnectionExampleUITests : NSObject
+@end
+@implementation PodsDummy_Pods_TCPConnectionExample_TCPConnectionExampleUITests
+@end

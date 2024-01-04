@@ -1,0 +1,6 @@
+framework module Pods_TCPConnectionExampleTests {
+  umbrella header "Pods-TCPConnectionExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
